@@ -2,7 +2,7 @@
 
 An analysis of lyrical vocabulary trends across 6,032 Billboard Hot 100 songs spanning 76 years, built to answer one question: **what words dominate hit songs, and has that changed over time?**
 
-## TL;DR
+## Abstract
 
 "Love" appears in **56.4%** of every Billboard Hot 100 song charted between 1946 and 2022 — more than half of all hits ever to make the chart. It was the single most common word in every decade from the 1940s through the 2000s, peaking around **1990 at ~62% of songs**. Since then, its dominance has declined to roughly **48% by the 2020s** — not because love went out of style, but because lyrical vocabulary has diversified: casual, conversational words like *out*, *baby*, and *time* rose steadily across every decade and have now converged with "love" instead of trailing behind it.
 
